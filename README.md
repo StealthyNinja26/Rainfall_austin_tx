@@ -58,9 +58,3 @@ These steps help understand the central tendency and variability of weather-rela
    ```bash
    jupyter notebook
 4. Execute all cells sequentially.
-
-## 📈 Outputs
-
-- Cleaned CSV file `austin_final.csv`
-- Display of first few rows for verification
-- Detailed feature-wise statistical outputs
